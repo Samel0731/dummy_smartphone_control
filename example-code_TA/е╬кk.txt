@@ -1,0 +1,14 @@
+我所使用到的python檔順序
+1.SA.py(部分程式，收集資料)
+2.combine_csv.py
+	串接csv資料，在 with open('~~~') as file 這行，將想要處理的csv檔串成一列為60個數值
+3.在combine.csv手動加入第一列的欄位名稱和label
+4.train.py 
+	訓練模型，並存模型
+5.SA.py(部分程式，預測)
+
+
+
+
+
+
